@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardUser Component should render correctly and match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container css-9cyib4-MuiGrid-root"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-1nu5ncz-MuiTypography-root"
+      >
+        Camila de Carvalho Mendes
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-18tk2zh-MuiTypography-root"
+      >
+        Desenvolvedora Frontend
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-18tk2zh-MuiTypography-root"
+      >
+        Desenvolvimento
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
