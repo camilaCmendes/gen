@@ -47,7 +47,9 @@ Execute os testes automatizados:
 npm run test
 ```
 
-# Contas de Acesso
+# Site e contas de acesso
+
+https://gen-crud.netlify.app/login
 
 - ADMIN
   e-mail: camila@email.com
