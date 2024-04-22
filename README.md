@@ -21,7 +21,7 @@ Para utilizar a aplicação siga os passos abaixo:
 Clone o repositório para sua máquina local
 
 ```
-git clone
+git clone https://github.com/camilaCmendes/gen.git
 cd gen
 ```
 
