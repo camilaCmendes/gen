@@ -49,7 +49,7 @@ npm run test
 
 # Site e contas de acesso
 
-https://gen-crud.netlify.app/login
+https://gen-crud.netlify.app
 
 - ADMIN
   e-mail: camila@email.com
